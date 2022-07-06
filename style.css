@@ -129,6 +129,7 @@
             border: 2px;
             margin-left: 40px;
             padding-top: 30px;
+            padding-bottom: 20px;
             padding-left: 20px;
             padding-right: 10px;
         }
@@ -153,6 +154,43 @@
             padding-top: 30px;
             padding-left: 20px;
             padding-right: 10px;
+            margin-bottom: 40px;
+        }
+        
+        .survive {
+            width: 100%;
+            display: flex;
+            margin-left: 100px;
+        }
+        
+        .about-survive {
+            width: 300px;
+            height: 270px;
+            border: 2px;
+            margin-left: 50px;
+            padding-top: 30px;
+            padding-left: 20px;
+            padding-right: 10px;
+        }
+        
+        .survive-pic {
+            background-image: url("images/donation4.jpg");
+            width: 500px;
+            height: 400px;
+            margin-left: 15%;
+            margin-top: 40px;
+            margin-bottom: 30px;
+        }
+        
+        #contribute-button {
+            text-decoration: none;
+            background-image: linear-gradient(red, tomato);
+            color: white;
+            font-size: 20px;
+            font-weight: 600;
+            padding: 10px 25px;
+            padding-top: 10px;
+            border-radius: 5px;
         }
         
         .updates {
